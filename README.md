@@ -2,7 +2,8 @@
 
 A modern, dark-themed personal finance dashboard built for young Indian professionals. Track expenses, visualize spending patterns, manage transactions, and gain actionable insights — all denominated in ₹ INR.
 
-> **Live Demo:** [Deploy URL here]  
+> **Live Demo:** [finlyv1.vercel.app](https://finlyv1.vercel.app/)  
+> **Repository:** [github.com/Abhi6537/Finly](https://github.com/Abhi6537/Finly)  
 > **Built with:** React 18 · TypeScript · Tailwind CSS · Recharts · Framer Motion
 
 ## Screenshots
@@ -114,8 +115,8 @@ A modern, dark-themed personal finance dashboard built for young Indian professi
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/finly-your-money-clearly.git
-cd finly-your-money-clearly
+git clone https://github.com/Abhi6537/Finly.git
+cd Finly
 
 # Install dependencies
 npm install
